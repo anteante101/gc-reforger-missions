@@ -1,0 +1,32 @@
+$grp SCR_DefendWaypoint : "{93291E72AC23930F}Prefabs/AI/Waypoints/AIWaypoint_Defend.et" {
+ entrance5 {
+  coords 3790.289 138.75 7361.982
+  CompletionRadius 65.9
+  m_bFastInit 1
+ }
+ entrance4 {
+  coords 3803.67 139.722 7251.927
+  CompletionRadius 66.2
+  m_bFastInit 1
+ }
+ hmv1 {
+  coords 3752.418 140.737 7158.685
+  CompletionRadius 9.6
+  m_bFastInit 1
+ }
+ hmv2 {
+  coords 3746.15 138.147 7450.376
+  CompletionRadius 9.6
+  m_bFastInit 1
+ }
+ hmv3 {
+  coords 3859.044 137.115 7189.76
+  CompletionRadius 9.6
+  m_bFastInit 1
+ }
+}
+SCR_SearchAndDestroyWaypoint QRF : "{B3E7B8DC2BAB8ACC}Prefabs/AI/Waypoints/AIWaypoint_SearchAndDestroy.et" {
+ coords 3788.954 138.751 7392.925
+ Title "QRF"
+ CompletionRadius 78.4
+}
