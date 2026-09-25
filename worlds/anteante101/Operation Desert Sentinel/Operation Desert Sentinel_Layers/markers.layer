@@ -84,9 +84,9 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_bShowForAnyFaction 1
  }
  extract {
-  coords 2988.978 139.731 6749.396
+  coords 2993.532 139.731 6770.99
   angles 0 90.613 0
-  m_MarkerColor 0.116 1 0 1
+  m_MarkerColor 0.502 0 0 1
   m_sQuadName "pick-up-2"
   m_fWorldSize 50
   m_sDescription "extract"
@@ -95,9 +95,9 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_bShowForAnyFaction 1
  }
  extract2 {
-  coords 4752.661 139.531 7615.683
+  coords 4746.452 139.531 7601.369
   angles 0 90.613 0
-  m_MarkerColor 0.116 1 0 1
+  m_MarkerColor 0.561 0.071 0.071 1
   m_sQuadName "pick-up-2"
   m_fWorldSize 50
   m_sDescription "extract"
@@ -106,9 +106,9 @@ $grp PS_ManualMarker : "{CD85ADE9E0F54679}PrefabsEditable/Markers/EditableMarker
   m_bShowForAnyFaction 1
  }
  extract3 {
-  coords 4169.364 142.857 8129.43
+  coords 4169.134 142.857 8107.994
   angles 0 90.613 0
-  m_MarkerColor 0.116 1 0 1
+  m_MarkerColor 0.561 0.071 0.071 1
   m_sQuadName "pick-up-2"
   m_fWorldSize 50
   m_sDescription "extract"

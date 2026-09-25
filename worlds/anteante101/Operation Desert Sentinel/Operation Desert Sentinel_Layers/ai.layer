@@ -173,7 +173,7 @@ $grp SCR_AIGroup : "{B784B16AB3F17CF9}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
   coords 3800.65 138.74 7289.964
   angles 0 -3.56 0
   m_aStaticWaypoints {
-   "entrance2"
+   "entrance4"
   }
  }
  {
@@ -227,6 +227,72 @@ $grp SCR_AIGroup : "{B784B16AB3F17CF9}Prefabs/Groups/BLUFOR/US/Army/2003/Infantr
   }
   m_aStaticWaypoints {
    "hmv1"
+  }
+ }
+ patrol {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    Enabled 0
+   }
+  }
+  coords 3884.163 139.244 7084.249
+  m_aUnitPrefabSlots {
+   "{88B61981BD94BAE1}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_SL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+  }
+  m_aStaticWaypoints {
+   "cycle"
+  }
+ }
+ patrol2 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    Enabled 0
+   }
+  }
+  coords 3887.795 139.191 7083.272
+  m_aUnitPrefabSlots {
+   "{88B61981BD94BAE1}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_SL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+  }
+  m_aStaticWaypoints {
+   "cycle"
+  }
+ }
+ patrol4 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    Enabled 0
+   }
+  }
+  coords 3907.854 139.333 7086.062
+  angles 0 170.434 0
+  m_aUnitPrefabSlots {
+   "{88B61981BD94BAE1}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_SL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+  }
+  m_aStaticWaypoints {
+   "cycle2"
+  }
+ }
+ patrol3 {
+  components {
+   AIFormationComponent "{507E9DC12F541FE6}" {
+    Enabled 0
+   }
+  }
+  coords 3904.11 139.28 7086.422
+  angles 0 170.434 0
+  m_aUnitPrefabSlots {
+   "{88B61981BD94BAE1}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_SL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+   "{F7561B8F24FFD223}Prefabs/Characters/Factions/BLUFOR/US_Army/2003/Infantry (Desert)/Character_US_2003_D_TL.et"
+  }
+  m_aStaticWaypoints {
+   "cycle2"
   }
  }
 }

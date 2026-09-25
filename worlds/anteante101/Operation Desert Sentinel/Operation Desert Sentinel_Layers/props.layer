@@ -1,24 +1,48 @@
 $grp GenericEntity : "{7B4CD0B54AA169AA}Prefabs/Props/Military/Sandbags/Sandbag_01_long_base.et" {
  {
+  components {
+   TILW_NavmeshRegenComponent "{6A730D465726443C}" {
+   }
+  }
   coords 3748.33 138.241 7453.112
   angles 0 167.038 0
  }
  {
+  components {
+   TILW_NavmeshRegenComponent "{6A730D470590F5F8}" {
+   }
+  }
   coords 3741.564 138.052 7451.765
   angles 0 167.038 0
  }
  {
+  components {
+   TILW_NavmeshRegenComponent "{6A730D46FC1B162A}" {
+   }
+  }
   coords 3746.586 139.506 7160.581
   angles 0 89.939 0
  }
  {
+  components {
+   TILW_NavmeshRegenComponent "{6A730D46EB08A585}" {
+   }
+  }
   coords 3746.615 139.562 7154.037
   angles 0 89.939 0
  }
  {
+  components {
+   TILW_NavmeshRegenComponent "{6A730D46F0172F9C}" {
+   }
+  }
   coords 3861.434 137.239 7185.2
  }
  {
+  components {
+   TILW_NavmeshRegenComponent "{6A730D46F5688F15}" {
+   }
+  }
   coords 3857.961 137.256 7185.206
  }
 }

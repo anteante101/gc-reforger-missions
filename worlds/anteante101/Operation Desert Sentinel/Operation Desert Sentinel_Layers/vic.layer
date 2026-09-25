@@ -15,10 +15,12 @@ Vehicle M923A1_command1 : "{36BDCC88B17B3BFA}Prefabs/Vehicles/Wheeled/M923A1/M92
   SCR_VehicleDustPerWheel "{5476BC43E4910F64}" {
    m_fDustTopSpeed 60
   }
+  SCR_VehicleDustPerWheel "{5476BC43E4910F64}" {
+   m_fDustTopSpeed 60
+  }
   TILW_Flag_EntityDamage "{6A53311DC85439A6}" {
    m_flagName "vic_destroyed"
-   m_continuous 1
-   m_initialHealth 0.001
+   m_initialHealth 0.3
   }
  }
  coords 3780.752 138.922 7343.104
