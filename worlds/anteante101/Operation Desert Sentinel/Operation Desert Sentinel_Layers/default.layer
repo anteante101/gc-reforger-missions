@@ -55,17 +55,15 @@ $grp PS_MissionDescription : "{3136BE42592F3B1B}PrefabsEditable/MissionDescripti
     FriendlyForces2 {
      coords 0.057 -0.034 -0.562
      m_sTitle "Friendly forces"
-     m_sTextData "2 squads of Mujahideen fighters locateed in Seyyedan (029 071)."\
+     m_sTextData "We have 2x squads of Mujahideen fighters staging in Seyyedan (029 071)."\
      ""\
-     "Have access to 3 vans."\
+     "• 3x unarmed vans at our staging area."\
+     "• There is a box with 2 detonators and 4 C4 blocks."\
      ""\
-     " There is a box with 2 detonators and 4 C4 blocks."\
-     ""\
-     "There are 3 extract point marked on the map:"\
-     ""\
-     "1. is in the South-West  (029 067) "\
-     "2. is in the East (041 081)"\
-     "3. is in the North-East (047 075)"
+     "Our three extraction points are marked on the map:"\
+     "• South-West  (029 067)"\
+     "• East (041 081)"\
+     "• North-East (047 075)"
      m_bShowForAnyFaction 1
      m_iOrder 2
     }
